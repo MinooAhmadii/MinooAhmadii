@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/MinooAhmadii/MinooAhmadii/blob/main/profile.jpg" alt="Minoo Ahmadi" width="200" style="border-radius: 50%;">
 
 # Hi, I'm Minoo! 👋
 
