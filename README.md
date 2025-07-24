@@ -1,88 +1,51 @@
 <div align="center">
 
-# Minoo Ahmadi
+<img src="https://github.com/MinooAhmadii/MinooAhmadii/blob/main/profile.jpg" alt="Minoo Ahmadi" width="200" style="border-radius: 50%;">
 
-**Ph.D. Student in Industrial & Systems Engineering**  
-**University of Southern California**
+# Hi, I'm Minoo! 👋
 
-📧 minooahm@usc.edu • 📍 Los Angeles, CA  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minoo-ahmadi-16342721a/)
+**Ph.D. Student at USC** • **Machine Learning Researcher**
+
+📧 minooahm@usc.edu • 🔗 [LinkedIn](https://www.linkedin.com/in/minoo-ahmadi-16342721a/)
 
 </div>
 
 ---
 
-## About Me
+## 🔬 What I'm Working On
 
-I'm a Ph.D. student at USC's Viterbi School of Engineering, advised by Prof. Carl Kesselman. My research focuses on developing intelligent systems that bridge machine learning and optimization, with applications in computer vision, AutoML, and biomedical data analysis.
+- **AutoML for Medical AI** - Automated hyperparameter optimization for ophthalmology diagnostics
+- **LLM Applications** - Context-enriched systems for biomedical data curation
+- **Multi-Modal Learning** - Computer vision frameworks with limited expert annotations
 
-## 🔬 Research Interests
+## 💻 Featured Repositories
 
-• **Computer Vision & Geometric Representation Learning**  
-• **AutoML & Hyperparameter Optimization**  
-• **Reinforcement Learning from Human Feedback**  
-• **Robust Machine Learning**
+**[🔍 FPM Web Application](https://github.com/MinooAhmadii/FPM_WebApplication)**  
+Full-stack data mining app with Apriori & FP-Growth algorithms  
+`Python` `Flask` `Vue.js` `PostgreSQL`
 
-## 🎓 Education
+**[⚡ CHARM Algorithm](https://github.com/MinooAhmadii/ClosedItemsetMinining_Datamining)**  
+Efficient frequent closed itemset mining implementation  
+`Python` `Data Mining` `Algorithm Optimization`
 
-**University of Southern California** (2023-2027)  
-*Ph.D. in Industrial & Systems Engineering* • GPA: 3.87/4.00  
-*M.Sc. in Analytics* • GPA: 4.00/4.00
+**[🧠 Neural Networks](https://github.com/MinooAhmadii/ConventionalNeuralNetworks_MachineLearning)**  
+Advanced neural network training with dropout optimization  
+`Python` `TensorFlow` `Deep Learning`
 
-**University of Tehran** (2018-2022)  
-*B.Sc. in Engineering Science* • GPA: 3.65/4.00 • **Ranked 1st**  
-*Minor in Entrepreneurship* • GPA: 4.00/4.00
+## 🛠️ Tech Stack
 
-## 📚 Recent Publications
+```python
+machine_learning = ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"]
+languages = ["Python", "R", "JavaScript", "C++", "MATLAB"]
+web_dev = ["Flask", "Vue.js", "Streamlit"]
+tools = ["Git", "Docker", "Jupyter", "LaTeX"]
+```
 
-**[1]** "Scalable Metadata Curation via Context-Enriched LLMs and Semantic Term Guidance" - *INFORMS 2025*
-
-**[2]** "Enhancing Multi-Modal Video Sentiment Classification Through Semi-Supervised Clustering" - *arXiv 2025*
-
-**[3]** "Machine Learning-Based Prediction of Mortality in Geriatric Traumatic Brain Injury Patients" - *Under revision at PLOS ONE*
-
-## 🚀 Featured Projects
-
-### 🔍 Multi-Modal Learning Framework for Ophthalmology Diagnostics
-*AutoML • Computer Vision • Medical AI*  
-Developing automated hyperparameter optimization that imitates expert intuition from limited data, enabling multi-modal learning for medical diagnostic applications.
-
-### 💡 [FPM Web Application](https://github.com/MinooAhmadii/FPM_WebApplication)
-*Data Mining • Flask • Vue.js*  
-Full-stack business intelligence application implementing Apriori and FP-Growth algorithms for sales optimization and customer targeting based on market basket analysis.
-
-### 🧠 [CHARM Algorithm Implementation](https://github.com/MinooAhmadii/ClosedItemsetMinining_Datamining)
-*Data Mining • Python*  
-Efficient implementation of CHARM algorithm for frequent closed itemset mining with performance optimization for large-scale commercial datasets.
-
-### 🤖 [Neural Networks with Advanced Techniques](https://github.com/MinooAhmadii/ConventionalNeuralNetworks_MachineLearning)
-*Deep Learning • TensorFlow*  
-Training conventional neural networks with dropout and callback methods for improved performance and generalization.
-
-## 💼 Experience
-
-**Graduate Research Assistant** • *USC & Information Sciences Institute* (2023-Present)  
-Working on multi-modal learning frameworks for ophthalmology diagnostics and LLM-based metadata curation systems.
-
-**International Intern** • *Parkyeri Co, Istanbul* (2021)  
-Frontend developer and Scrum Master using Vue.js and agile methodologies.
-
-## 🛠️ Technical Skills
-
-**Languages:** Python, R, MATLAB, JavaScript, C++, SQL  
-**ML/AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK  
-**Web:** Flask, Vue.js, PostgreSQL, Streamlit  
-**Tools:** Git, Docker, LaTeX, Jupyter
-
-## 🏆 Honors & Awards
-
-• **Viterbi Ph.D. Fellowship** - USC (2023)  
-• **Ranked 1st** - Engineering Science Bachelor's, University of Tehran (2022)  
-• **Second Best Undergraduate Thesis** - University of Tehran (2022)
-
+---
 
 <div align="center">
 
-*"Bridging the gap between theoretical optimization and practical machine learning applications"*
+**Currently:** Building AI systems that bridge theory and practice 🚀  
+**Always:** Open to collaboration on ML & LLM research projects 🤝
 
 </div>
