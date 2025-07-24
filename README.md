@@ -1,7 +1,9 @@
 <div align="center">
 
 
-# Hi, I'm Minoo! 👋
+# Minoo Ahmadi
+
+**Solving complex scientific challenges through AI and optimization** ⚡
 
 **Ph.D. Student at USC** • **Machine Learning Researcher**
 
