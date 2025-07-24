@@ -17,29 +17,6 @@
 - **LLM Applications** - Context-enriched systems for biomedical data curation
 - **Multi-Modal Learning** - Computer vision frameworks with limited expert annotations
 
-## 💻 Featured Repositories
-
-**[🔍 FPM Web Application](https://github.com/MinooAhmadii/FPM_WebApplication)**  
-Full-stack data mining app with Apriori & FP-Growth algorithms  
-`Python` `Flask` `Vue.js` `PostgreSQL`
-
-**[⚡ CHARM Algorithm](https://github.com/MinooAhmadii/ClosedItemsetMinining_Datamining)**  
-Efficient frequent closed itemset mining implementation  
-`Python` `Data Mining` `Algorithm Optimization`
-
-**[🧠 Neural Networks](https://github.com/MinooAhmadii/ConventionalNeuralNetworks_MachineLearning)**  
-Advanced neural network training with dropout optimization  
-`Python` `TensorFlow` `Deep Learning`
-
-## 🛠️ Tech Stack
-
-```python
-machine_learning = ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"]
-languages = ["Python", "R", "JavaScript", "C++", "MATLAB"]
-web_dev = ["Flask", "Vue.js", "Streamlit"]
-tools = ["Git", "Docker", "Jupyter", "LaTeX"]
-```
-
 ---
 
 <div align="center">
