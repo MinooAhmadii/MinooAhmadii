@@ -13,9 +13,11 @@
 
 ## 🔬 What I'm Working On
 
-- **AutoML for Medical AI** - Automated hyperparameter optimization for ophthalmology diagnostics
-- **LLM Applications** - Context-enriched systems for biomedical data curation
-- **Multi-Modal Learning** - Computer vision frameworks with limited expert annotations
+- **AutoML for Medical AI** - Automated hyperparameter optimization that imitates expert intuition for ophthalmology diagnostics
+- **RAG-Enhanced LLM Systems** - Context-enriched pipelines combining GPT-4 with SciBERT embeddings for biomedical term standardization
+- **Multi-Modal Learning** - Computer vision frameworks with limited expert annotations and preference-based optimization
+- **Retrieval-Augmented Generation** - Building LLM-RAG chatbots for scientific data repositories like FaceBase with vector embeddings
+- **Reinforcement Learning from Human Feedback** - Developing RLHF systems for medical diagnostic applications
 
 ---
 
