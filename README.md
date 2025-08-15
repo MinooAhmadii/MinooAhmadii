@@ -5,7 +5,6 @@
 
 **Solving complex scientific challenges through AI and optimization** ⚡
 
-**Ph.D. Student at USC** • **Machine Learning Researcher**
 
 📧 minooahm@usc.edu • 🔗 [LinkedIn](https://www.linkedin.com/in/minoo-ahmadi-16342721a/)
 
