@@ -3,7 +3,7 @@
 
 # Minoo Ahmadi
 
-**Solving complex scientific challenges through AI and optimization** ⚡
+**Solving complex scientific challenges through AI and optimization** 
 
 
 📧 minooahm@usc.edu • 🔗 [LinkedIn](https://www.linkedin.com/in/minoo-ahmadi-16342721a/)
