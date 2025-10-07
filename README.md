@@ -12,7 +12,7 @@
 
 ---
 
-## 🔬 What I'm Working On
+## What I'm Working On
 
 - **AutoML for Medical AI** - Automated hyperparameter optimization that imitates expert intuition for ophthalmology diagnostics
 - **Computer Vision & Multi-Modal Learning** - Geometric representation learning and vision frameworks with limited expert annotations
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-**Currently:** Building AI systems that bridge theory and practice 🚀  
-**Always:** Open to collaboration on ML & LLM research projects 🤝
+**Currently:** Building AI systems that bridge theory and practice   
+**Always:** Open to collaboration on ML & LLM research projects 
 
 </div>
